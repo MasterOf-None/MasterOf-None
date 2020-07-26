@@ -1,4 +1,7 @@
 ### Hi there 👋
+### Welcome to my reporsitory 📫
+### where will find personal projects
+### ⚡ and my portfolio 
 
 <!--
 **MasterOf-None/MasterOf-None** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -19,6 +19,6 @@ Here are some ideas to get you started:
 -->
 
 * [x] Study hard :smiley:
-* [x] Deep in the learning recived
+* [x] Deep in the learning recived :+1:
 * [ ] Became a great programmer
 * [ ] Get a great job

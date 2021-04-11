@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-* [x] Study hard
+* [x] Study hard :smiley:
 * [x] Deep in the learning recived
 * [ ] Became a great programmer
 * [ ] Get a great job

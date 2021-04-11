@@ -17,3 +17,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+*[x] Study hard
+*[x] Deep in the learning recived
+*[] Became a great programmer
+*[] Get sa great job

@@ -3,11 +3,11 @@
 ### where will find personal projects
 ### ⚡ and my portfolio 
 
-Hi everyone 👋
+###Hi everyone 👋
 
 ```Java
-System.out.println("Welcome to my repository");
-```📫
+System.out.println("Welcome to my repository 📫");
+```
 ```VB
 Console.WriteLine("I'm so excited")
 ````
@@ -18,7 +18,7 @@ console.info('I enjoy write code for resolv problems');
 cout << "I think that" << "\n"; 
 ```
 ```C
-printf("The software is the art of the intangible");
+printf("The software is the art of the intangible ⚡");
 ```
 ```PHP
 echo "When I said it to my professor"

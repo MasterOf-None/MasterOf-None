@@ -39,7 +39,7 @@ Some ideas:
 - ⚡ Fun fact: ...
 -->
 
-###### - Objectives list:
+###### - My goals list:
 * [x] Study hard :smiley:
 * [x] Deep in the learning recived :+1:
 * [ ] Became a great programmer

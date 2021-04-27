@@ -21,10 +21,10 @@ cout << "I think that" << "\n";
 printf("The software is the art of the intangible");
 ```
 ```PHP
-echo "When I say it to my professor"
+echo "When I said it to my professor"
 ```
 ```HTML
-<p>Estas copiando a Platón</p>
+<p>You are copying Plato</p>
 ```
 ```SQL
 select '¯\_(ツ)_/¯' as ' ';

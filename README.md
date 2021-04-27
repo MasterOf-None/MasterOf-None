@@ -1,27 +1,27 @@
 ### Hi everyone 👋
 
-```Java
+```java
 System.out.println("Welcome to my repository 📫");
 ```
-```VB
+```vb
 Console.WriteLine("I'm so excited")
 ````
-``` JavaScript
+```javascript
 console.info('I enjoy write code for resolv problems');
 ```
-```C++
+```cpp
 cout << "I think that" << "\n"; 
 ```
-```C
+```c
 printf("The software is the art of the intangible ⚡");
 ```
 ```PHP
 echo "When I said it to my professor"
 ```
-```HTML
+```html
 <p>You are copying Plato</p>
 ```
-```SQL
+```sql
 SELECT '¯\_(ツ)_/¯' as ' ';
 ```
 

@@ -1,9 +1,4 @@
-### Hi there 👋
-### Welcome to my reporsitory 📫
-### where will find personal projects
-### ⚡ and my portfolio 
-
-###Hi everyone 👋
+### Hi everyone 👋
 
 ```Java
 System.out.println("Welcome to my repository 📫");
@@ -27,7 +22,7 @@ echo "When I said it to my professor"
 <p>You are copying Plato</p>
 ```
 ```SQL
-select '¯\_(ツ)_/¯' as ' ';
+SELECT '¯\_(ツ)_/¯' as ' ';
 ```
 
 <!--

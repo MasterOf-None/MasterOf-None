@@ -27,7 +27,7 @@ SELECT '¯\_(ツ)_/¯' as ' ';
 
 <!--
 
-Here are some ideas to get you started:
+Some ideas:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -39,6 +39,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+###### - Objectives list:
 * [x] Study hard :smiley:
 * [x] Deep in the learning recived :+1:
 * [ ] Became a great programmer

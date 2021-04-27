@@ -1,4 +1,4 @@
-### Hi everyone ✨ \_0--0_\ ✨ 
+### Hi everyone ✨ \\_0--0_\ ✨ 
 
 ```java
 System.out.println("Welcome to my repository 📫");
@@ -26,7 +26,6 @@ SELECT '¯\_(ツ)_/¯' as ' ';
 ```
 
 <!--
-**MasterOf-None/MasterOf-None** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 

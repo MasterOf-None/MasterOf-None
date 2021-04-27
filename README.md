@@ -3,11 +3,11 @@
 ### where will find personal projects
 ### ⚡ and my portfolio 
 
-Hi everyone
+Hi everyone 👋
 
 ```Java
 System.out.println("Welcome to my repository");
-```
+```📫
 ```VB
 Console.WriteLine("I'm so excited")
 ````

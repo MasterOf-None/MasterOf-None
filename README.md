@@ -18,7 +18,13 @@ cout << "I think that" << "\n";
 printf("The software is the art of the intangible ⚡");
 ```
 ```PHP
-echo "When I said it to my professor"
+echo "When I said this to my professor"
+```
+<!--
+> test << "END"\n<!DOCTYPE html>\n<head>\n<title>My first web page from terminal</head>\n</head>\n<body>Hello friend maybe shuold give a name</body>\nEND
+-->
+```bash
+echo "He said:" > mylog | cat
 ```
 ```html
 <p>You are copying Plato</p>

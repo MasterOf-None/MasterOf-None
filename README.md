@@ -21,10 +21,10 @@ printf("The software is the art of the intangible ⚡");
 echo "When I said this to my professor"
 ```
 <!--
-> test << "END"\n<!DOCTYPE html>\n<head>\n<title>My first web page from terminal</head>\n</head>\n<body>Hello friend maybe shuold give a name</body>\nEND
+> test << "END"\n<!DOCTYPE html>\n<head>\n<title>My first web page from terminal</head>\n</head>\n<body><p>Hello friend maybe shuold give a name</p></body>\nEND
 -->
 ```bash
-echo "He said:" > mylog | cat
+echo "He said:" > mylog | cat | pbcopy
 ```
 ```html
 <p>You are copying Plato</p>

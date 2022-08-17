@@ -34,7 +34,7 @@ SELECT '¯\_(ツ)_/¯' as ' ';
 cat << EOF > index.html
 <!DOCTYPE html>
 <head>
-  <title>My first web page from terminal</head>
+  <title>My first web page from Terminal</head>
 </head>
 <body>
   <p>Hello friend maybe shuold give a name</p>

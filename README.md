@@ -31,7 +31,13 @@ SELECT '¯\_(ツ)_/¯' as ' ';
 ```
 
 ```bash
-cat << EOF > index.html\n<!DOCTYPE html>\n<head>\n<title>My first web page from terminal</head>\n</head>\n<body><p>Hello friend maybe shuold give a name</p></body>\nEOF
+cat << EOF > index.html\n \
+<!DOCTYPE html>\n \
+<head>\n \
+<title>My first web page from terminal</head>\n \
+</head>\n \
+<body><p>Hello friend maybe shuold give a name</p></body>\n \
+EOF
 ```
 <!--
 Some ideas:

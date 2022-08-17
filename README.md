@@ -19,10 +19,6 @@ printf("The software is the art of the intangible ⚡");
 ```
 ```PHP
 echo "When I said this to my professor"
-```
-<!--
-> test << "END"\n<!DOCTYPE html>\n<head>\n<title>My first web page from terminal</head>\n</head>\n<body><p>Hello friend maybe shuold give a name</p></body>\nEND
--->
 ```bash
 echo "He said:" > mylog | cat | pbcopy
 ```
@@ -33,7 +29,9 @@ echo "He said:" > mylog | cat | pbcopy
 SELECT '¯\_(ツ)_/¯' as ' ';
 ```
 
-<!--
+```bash
+cat << EOF > index.html\n<!DOCTYPE html>\n<head>\n<title>My first web page from terminal</head>\n</head>\n<body><p>Hello friend maybe shuold give a name</p></body>\nEOF
+
 
 Some ideas:
 

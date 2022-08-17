@@ -37,7 +37,7 @@ cat << EOF > index.html
   <title>My first web page from Terminal</head>
 </head>
 <body>
-  <p>Hello friend maybe shuold give a name</p>
+  <p>Hello friend maybe shuold give you a name</p>
 </body>
 EOF
 ```

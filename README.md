@@ -1,6 +1,6 @@
 ### Hi everyone ✨ \\_0--0_\ ✨ 
 
-![ My GitHub Profile ](https://github.com/user-attachments/assets/b9ae9ed5-132d-4487-8020-abee575b1df5)
+![ My GitHub Profile ](https://github.com/user-attachments/assets/)
 
 
 

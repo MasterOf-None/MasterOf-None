@@ -7,7 +7,7 @@ System.out.println("Welcome to my repository 📫");
 Console.WriteLine("I'm so excited")
 ````
 ```javascript
-console.info('I enjoy write code for resolv problems');
+console.info('I enjoy write code for resolve problems');
 ```
 ```cpp
 cout << "I think that" << "\n"; 

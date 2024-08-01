@@ -1,10 +1,5 @@
 ### Hi everyone ✨ \\_0--0_\ ✨ 
 
-![ My GitHub Profile ](https://github.com/user-attachments/assets/)
-
-
-
-
 ```java
 System.out.println("Welcome to my repository 📫");
 ```
@@ -37,7 +32,7 @@ SELECT '¯\_(ツ)_/¯' as ' ';
 cat << EOF > index.html
 <!DOCTYPE html>
 <head>
-  <title>My first web page from Terminal</head>
+  <title>My first web page from Terminal</title>
 </head>
 <body>
   <p>Hello friend, maybe should give you a name</p>

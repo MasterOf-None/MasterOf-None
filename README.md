@@ -29,7 +29,7 @@ SELECT '¯\_(ツ)_/¯' as ' ';
 ```
 
 ```bash
-cat << EOF > index.html
+cat << EOF > ./index.html
 <!DOCTYPE html>
 <head>
   <title>My first web page from Terminal</title>

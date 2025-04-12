@@ -3,42 +3,44 @@
 ```java
 System.out.println("Welcome to my repository 📫");
 ```
-```vb
-Console.WriteLine("I'm so excited")
+```vbnet
+Console.WriteLine("I'm so excited!");
 ````
 ```javascript
-console.info('I enjoy write code for resolve problems');
+console.info('I enjoy writing code to solve problems.');
 ```
 ```cpp
-cout << "I think that" << "\n"; 
+cout << "That's what I believe!" << "\n"; 
 ```
 ```c
-printf("The software is the art of the intangible ⚡");
+printf("Software is the art of the intangible ⚡");
 ```
 ```PHP
-echo "When I said this to my professor"
+echo "When I said this to my professor...";
 ```
 ```bash
-echo "He said:" > mylog | cat | pbcopy
+echo "He replied:" > mylog | cat | pbcopy
 ```
 ```html
-<p>You are copying Plato</p>
+<p>You are quoting Plato.</p>
 ```
 ```sql
-SELECT '¯\_(ツ)_/¯' as ' ';
+SELECT '¯\\_(ツ)_/¯' AS ' ';
 ```
-
 ```bash
 cat << EOF > ./index.html
 <!DOCTYPE html>
-<head>
-  <title>My first web page from Terminal</title>
-</head>
-<body>
-  <p>Hello friend, maybe should give you a name</p>
-</body>
+<html>
+  <head>
+    <title>My First Web Page from Terminal</title>
+  </head>
+  <body>
+    <p>Hello, friend. Maybe I should give you a name.</p>
+  </body>
+</html>
 EOF
 ```
+
 <!--
 Some ideas:
 
@@ -53,7 +55,7 @@ Some ideas:
 -->
 
 ###### - My goals list:
-* [x] Study hard :smiley:
-* [x] Deep in the learning recived :+1:
-* [ ] Became a great programmer
-* [ ] Get a great job
+- [x] Study hard :smiley:
+- [x] Deep in the learning recived :+1:
+- [ ] Became a great programmer
+- [ ] Get a great job

@@ -30,11 +30,14 @@ SELECT '¯\\_(ツ)_/¯' AS ' ';
 ```bash
 cat << EOF > ./index.html
 <!DOCTYPE html>
-<html>
+<html lang="en">
   <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>My First Web Page from Terminal</title>
   </head>
   <body>
+    <!-- Greetings -->
     <p>Hello, friend. Maybe I should give you a name.</p>
   </body>
 </html>
